@@ -15,9 +15,9 @@ Neste desafio, o objetivo foi ajudar o Sr. João a decidir qual loja da rede Alu
 <p align="left">
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40"/>
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="40"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" height="40"/>
 </p>
 
 ---
@@ -49,8 +49,4 @@ Após as análises, a recomendação final foi vender a **Loja 4**, que apresent
 ## 💡 Observações Finais  
 
 Este projeto faz parte de um desafio de ciência de dados da Alura para praticar análise exploratória de dados e comunicação de resultados.  
-Dúvidas ou sugestões? Sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**!  
-
----
-
-🎯 **Autor:** Renam  
+Dúvidas ou sugestões? Sinta-se à vontade para abrir uma **Is**
