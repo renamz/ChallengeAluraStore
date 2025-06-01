@@ -1,6 +1,6 @@
-# 🚀 Projeto: Desafio de Ciência de Dados – Alura Store  
+# 🚀 Projeto: Challenge Alura Store  
 
-<img src="https://www.alura.com.br/assets/api/alura-store-logo.png" alt="Alura Store" height="80"/>
+
 
 ---
 
